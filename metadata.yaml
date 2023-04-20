@@ -1,0 +1,33 @@
+_repo: Tante-Million_70351
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Margueritte, Paul
+    birthdate: 1860
+    deathdate: 1918
+    gutenberg_agent_id: '32522'
+    url: http://www.gutenberg.org/2009/agents/32522
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Margueritte
+    - https://fr.wikipedia.org/wiki/Paul_Margueritte
+description: ''
+gutenberg_issued: '2023-03-22'
+identifiers:
+  gutenberg: '70351'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k80767t
+pgterms:marc905: 20230312011106margueritt
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bFlammarion, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Tante Million
+url: http://www.gutenberg.org/ebooks/70351
