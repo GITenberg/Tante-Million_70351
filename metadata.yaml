@@ -1,5 +1,8 @@
 _repo: Tante-Million_70351
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70351-h/images/cover.jpg
 creator:
   author:
     agent_name: Margueritte, Paul
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Margueritte
     - https://fr.wikipedia.org/wiki/Paul_Margueritte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70351#Tante-Million
 gutenberg_issued: '2023-03-22'
 identifiers:
   gutenberg: '70351'
